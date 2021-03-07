@@ -1,0 +1,9 @@
+/Users/douglasnogueirademelo/eclipse-workspace/ms-communication-controlar-temperatura/src/main/java/com/br/ms/communication/controlartemperatura/service/processar/RequestHTTP.java
+/Users/douglasnogueirademelo/eclipse-workspace/ms-communication-controlar-temperatura/src/main/java/com/br/ms/communication/controlartemperatura/regras/RegraControleTemperatura.java
+/Users/douglasnogueirademelo/eclipse-workspace/ms-communication-controlar-temperatura/src/main/java/com/br/ms/communication/controlartemperatura/service/model/GsonConfig.java
+/Users/douglasnogueirademelo/eclipse-workspace/ms-communication-controlar-temperatura/src/main/java/com/br/ms/communication/controlartemperatura/gateway/json/ArCondicionadoJson.java
+/Users/douglasnogueirademelo/eclipse-workspace/ms-communication-controlar-temperatura/src/main/java/com/br/ms/communication/controlartemperatura/gateway/json/SensorJson.java
+/Users/douglasnogueirademelo/eclipse-workspace/ms-communication-controlar-temperatura/src/main/java/com/br/ms/communication/controlartemperatura/gateway/json/QueryJson.java
+/Users/douglasnogueirademelo/eclipse-workspace/ms-communication-controlar-temperatura/src/main/java/com/br/ms/communication/controlartemperatura/ControleArCondicionado.java
+/Users/douglasnogueirademelo/eclipse-workspace/ms-communication-controlar-temperatura/src/main/java/com/br/ms/communication/controlartemperatura/ControlarTemperatura.java
+/Users/douglasnogueirademelo/eclipse-workspace/ms-communication-controlar-temperatura/src/main/java/com/br/ms/communication/controlartemperatura/service/model/MedicaoTemperatura.java

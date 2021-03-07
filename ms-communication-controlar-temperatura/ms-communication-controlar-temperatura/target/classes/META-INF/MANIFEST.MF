@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: douglasnogueirademelo
+Build-Jdk: 14.0.2
+Implementation-Title: ms-communication-lersensores
+Implementation-Version: 1.0.0.-SNAPSHOT
+Implementation-Vendor-Id: com.br.ms.communication
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-cloud/ms-communica
+ tion-controlar-temperatura
+Created-By: Maven Integration for Eclipse
+

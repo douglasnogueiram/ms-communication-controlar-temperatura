@@ -1,0 +1,9 @@
+com/br/ms/communication/controlartemperatura/regras/RegraControleTemperatura.class
+com/br/ms/communication/controlartemperatura/gateway/json/QueryJson.class
+com/br/ms/communication/controlartemperatura/gateway/json/SensorJson.class
+com/br/ms/communication/controlartemperatura/ControleArCondicionado.class
+com/br/ms/communication/controlartemperatura/ControlarTemperatura.class
+com/br/ms/communication/controlartemperatura/gateway/json/ArCondicionadoJson.class
+com/br/ms/communication/controlartemperatura/service/processar/RequestHTTP.class
+com/br/ms/communication/controlartemperatura/service/model/MedicaoTemperatura.class
+com/br/ms/communication/controlartemperatura/service/model/GsonConfig.class
